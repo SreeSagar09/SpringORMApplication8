@@ -1,0 +1,1 @@
+A Program to demonstrate how to insert records into db by using save method:

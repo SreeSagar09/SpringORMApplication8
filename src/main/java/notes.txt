@@ -1,0 +1,16 @@
+A Program to demonstrate how to insert records into db by using save method:
+Programs:
+* CommonDAO.java
+* CommonDAOImpl.java
+* CommonService.java
+* Employee.java
+* Product.java
+* AppConfig.java
+* Test.java
+Note:
+* The save overloaded methods are used to save instance into database and return Serializable id.
+* The save(Object entity) method accept single argument entity as Object.
+* The save(String entityName, Object entity) method accept two arguments first one is fully qualified entity name as String and second one is entity as Object.
+Output:
+Product saved successfully.
+Employee saved successfully.
